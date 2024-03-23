@@ -1,0 +1,8 @@
+domain: 'nwws-oi.weather.gov'
+port: 5223
+username: ''
+nickname: ''
+password: ''
+resource: ''
+conferenceServer: 'conference.nwws-oi.weather.gov'
+room: 'nwws'
