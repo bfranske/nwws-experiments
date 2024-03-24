@@ -1,0 +1,2 @@
+PyYAML==6.0.1
+slixmpp==1.8.5
